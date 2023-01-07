@@ -114,3 +114,69 @@ main{
     font-size: 20px;
     color: #474747;
 }
+
+/* What I Do Section */
+.what-i-do{
+    margin-top: 130px;
+}
+.section-description-2{
+    text-align: center;
+    margin: 30px 150px;
+}
+
+.skill-container{
+    display: flex;
+    margin-top: 50px;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
+    line-height: 28px;
+}
+
+/* A summary of My Resume Section  */
+
+.section-title{
+    margin-top: 130px;
+    margin-bottom: 110px;
+}
+.ressume-content{
+    display: flex;
+    gap: 24px;
+}
+.ressume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.ressume-item .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+.ressume-item .sub-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.ressume-item .description{
+    font-weight: 400;
+    color: #757575;
+}
+.ressume-btn{
+    margin-top: 50px;
+    text-align: center;
+}
